@@ -1,0 +1,2 @@
+#!/bin/bash
+find -f -empty | find -d -empty | cut -name | sort 
